@@ -1,5 +1,5 @@
 {
-    "name": "christeenajose/test_mail",
+    "name": "christeenajose/MacOS-SMTP-PHP",
     "autoload": {
         "psr-4": {
             "Christeenajose\\TestMail\\": "src/"
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "ChristeenaJose",
-            "email": "45913504+ChristeenaJose@users.noreply.github.com"
+            "email": "christyjose.m.j@gmail.com"
         }
     ],
     "require": {
