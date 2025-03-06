@@ -33,7 +33,10 @@ Then, visit: http://localhost:8000/sendmail.php
 
 ## 🏆 Next Steps
 ✅ Add HTML email templates
+
 ✅ Implement email logging
+
 ✅ Add user registration & login with email verification
+
 
 🔗 Contributions welcome! Feel free to fork and improve. 🚀
